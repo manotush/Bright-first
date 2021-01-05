@@ -1,0 +1,12 @@
+body{background: #75c35D;}
+.logbox{background: white;width: 400px;padding: 40px;margin: auto;margin-top: 220px;box-shadow: 0 0 50px -10px black;border-radius: 5PX;}
+.logbox input{background: #f2f2f2;display: block;width: 89%;margin-bottom: 20px;padding: 20px;border: none;font-size: 16px;outline: none;}
+
+.log{background:linear-gradient(#09e609,#1a611a)!important;width: 100%!important;color: white;}
+.log:hover{background: linear-gradient(#1a511a,#09e609)!important;cursor: pointer;}
+.register{text-align: center;font-size: 17px;}
+.register span{color: #beb6b6;}
+.register a{color:#75c35D;text-decoration: none;}
+
+.logbox h4{font-size: 30px;text-align: center;text-transform:uppercase;text-shadow: 2px 2px 2px black;color:#444;font-family: arial,black;margin: 0;margin-bottom: 20px;}
+.logbox:hover{transform:scale(1.3);}
